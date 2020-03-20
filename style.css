@@ -35,7 +35,7 @@ img {
 }
 
 .flexcard {
-  flex: 0 0 calc(100% - 1rem);
+  flex: 0 0 calc(100% - 3rem);
   display: flex;
   flex-direction: column;
   background-color: #FFF4D2;
